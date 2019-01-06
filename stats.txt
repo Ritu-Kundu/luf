@@ -1,0 +1,2 @@
+Len	depth 	num_push	num_lcp 	num_sq 	num_Succ_lcp_base 	num_Succ_lcp_non_base 	num_fail_lcp_base 	num_fail_lcp_non_base 	time
+31	4	46	29	17	10	19	0	0
